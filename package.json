@@ -1,0 +1,14 @@
+{
+  "name": "counting-sheeps",
+  "version": "1.0.0",
+  "description": "Instrucciones:",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "Julia",
+  "license": "ISC",
+  "dependencies": {
+    "vitest": "^2.0.3"
+  }
+}
